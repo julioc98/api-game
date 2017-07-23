@@ -1,0 +1,30 @@
+{
+  "name": "api-game",
+  "version": "1.0.0",
+  "description": "API using MEN stack",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julioc98/api-game.git"
+  },
+  "author": "julioc98",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julioc98/api-game/issues"
+  },
+  "homepage": "https://github.com/julioc98/api-game#readme",
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb": "^15.0.2",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^5.1.1",
+    "eslint-plugin-react": "^7.1.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  }
+}
